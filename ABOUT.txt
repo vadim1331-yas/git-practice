@@ -1,0 +1,5 @@
+About this project
+
+This project was created to practice Git.
+I am learning how to work with branches and commits.
+My goal is to become a QA Engineer.
