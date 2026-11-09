@@ -1,0 +1,5 @@
+QA Testing Practice
+
+Test case 1: Login with valid credentials.
+Test case 2: Login with invalid credentials.
+Test case 3: Check error messages.
